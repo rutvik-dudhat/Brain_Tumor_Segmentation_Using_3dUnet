@@ -36,4 +36,4 @@ The project uses the **BraTS2020 dataset**, which includes:
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/rutvik-dudhat/Brain_Tumor_Segmentation_Using_3dUnet.git  
+  [ git clone https://github.com/rutvik-dudhat/Brain_Tumor_Segmentation_Using_3dUnet.git
