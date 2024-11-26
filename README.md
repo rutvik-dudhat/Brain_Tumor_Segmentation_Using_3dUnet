@@ -37,4 +37,15 @@ The project uses the **BraTS2020 dataset**, which includes:
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/rutvik-dudhat/Brain_Tumor_Segmentation_Using_3dUnet.git  
+   git clone https://github.com/rutvik-dudhat/Brain_Tumor_Segmentation_Using_3dUnet.git
+
+## Conclusion
+
+This project demonstrates the successful application of a 3D U-Net model for brain tumor segmentation. The results show that the model is capable of accurately identifying and segmenting tumor regions in MRI scans. Further improvements can be made by addressing issues like class imbalance and integrating advanced techniques like attention mechanisms and ensemble learning.
+
+## Future Work
+
+In the future, we plan to enhance the model's generalization ability and improve its performance on more diverse datasets. Integrating additional patient-specific data could further refine tumor segmentation accuracy, offering more personalized treatment planning in clinical settings.
+
+
+   
